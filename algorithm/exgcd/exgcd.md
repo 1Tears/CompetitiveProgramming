@@ -112,13 +112,11 @@ $$
 
 可以有以下转化：
 $$
-\begin{aligned}
-    \frac{a\beta}{b}&=\frac{a}{gcd(a,b)}\cdot \frac{gcd(a,b)}{b}\cdot \beta \tag{3}
-\end{aligned}
+\frac{a\beta}{b}=\frac{a}{gcd(a,b)}\cdot \frac{gcd(a,b)}{b}\cdot \beta
 $$
 设$a'=\frac{a}{gcd(a,b)}$，$b'=\frac{b}{gcd(a,b)}$
 
-可转化式（3）：
+可转化：
 $$
 \frac{a\beta}{b}=\frac{a'}{b'}\cdot \beta
 $$
